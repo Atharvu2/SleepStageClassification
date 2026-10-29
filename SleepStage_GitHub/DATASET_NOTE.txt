@@ -1,0 +1,2 @@
+Dataset packaging note
+The original participant ZIP files and extracted EDF recordings are intentionally excluded from this deliverables archive because they total several gigabytes and have their own dataset license/repository terms. The processed feature matrix and epoch metadata used for the reported model runs are included under results/. To rebuild from raw recordings, obtain the SLP001-SLP005 participant archives from the dataset's official repository and follow README.md.

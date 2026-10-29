@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+.pytest_cache/
+*.py[cod]
+.DS_Store
+# Raw participant data are intentionally not committed
+data/raw/
+data/SLP*.zip
+# Locally generated experiment artifacts can be large; keep committed processed inputs/results deliberately
